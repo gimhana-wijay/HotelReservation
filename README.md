@@ -1,2 +1,2 @@
 # HotelReservation
-Spring Hotel Reservation System
+Using Spring, Hotel Reservation System
